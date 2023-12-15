@@ -109,7 +109,7 @@ elseif ($age->days == "6")
     echo "Age : " . $age->days . " jours";
 } 
 else {
-    echo "Euh, je ne comprends pas ton choix, tu peux me le rappeler s'il te plaît ?";
+    echo "Erreur Fatale OE";
 }
 
 
